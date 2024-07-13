@@ -1,2 +1,2 @@
 # readme-writer
-takes assignment.md, template.json, prompts.json and generates a readme.md
+takes assignment.md, begin analysis, process assignment.md, generate README.md, display 'Save Output' button
